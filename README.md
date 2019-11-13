@@ -1,7 +1,7 @@
 # Paginaweb.github.io
 
 
-  <h1 style="text-align: center;"><span style="background-color: #cc99ff;"><strong>Mi Blog Personal</strong></span></h1>
+  <h1 style="text-align: center;"><span style="color: #808080;"><strong>BIENVENIDOS A MI BLOG</strong></span></h1>
                
                
                
@@ -54,13 +54,7 @@
   
   
   
-  Secundaria:&nbsp;&nbsp;"
-  
-  
-  
-  
-  
-  Colegio Victor Hugo Mora Barrezueta" 
+  Secundaria:&nbsp;&nbsp;"Colegio Victor Hugo Mora Barrezueta" 
   
   
   
