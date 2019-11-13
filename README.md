@@ -1,11 +1,10 @@
 # Paginaweb.github.io
 
 
-  <h1 style="text-align: center;"><span style="color: #808080;"><strong>BIENVENIDOS A MI BLOG</strong></span></h1>
+  <h1><span style="color: #808080;"><strong>BIENVENIDOS&nbsp; A MI BLOG</strong></span></h1>
+         
                
-               
-               
-               
+           
                
                
                
