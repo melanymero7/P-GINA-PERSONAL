@@ -13,7 +13,8 @@
                Datos personales 
   
   
-  
+  ![20190728_175502_opt (2)](https://user-images.githubusercontent.com/57650599/68813417-ba83d980-0643-11ea-8a57-0a83fc2843dc.jpg)
+
   
   
   
@@ -85,9 +86,5 @@
   
   
  Soy una persona promedio que se esfuerza siempre en cada una de las actividades o proyectos que dDesde la etapa del colegio me adentre
- 
- 
  trabajando en IDE , y hasta la actualidad me gusta lo que estudio.&nbsp; Me sumergo en la literatura , en mis tiempos busco nuevas
- 
- 
  canciones para poder entonarlas en mi guitarra. a la vida.</p>
